@@ -1,3 +1,3 @@
 # Code-demo
-This is my first git repository 
-author roshni 
+This is my first git repository.
+Author - Rajput Roshni 
